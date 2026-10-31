@@ -43,7 +43,7 @@ software development, Python programming, and learning new technologies.
 ## 📫 Connect With Me
 
 - **GitHub:** https://github.com/Keerthi-Alugula
-- **Email:** YOUR_EMAIL@gmail.com
+- **Email:** keerthialugula@gmail.com
 - **LinkedIn:** YOUR_LINKEDIN_PROFILE
 
 ---
